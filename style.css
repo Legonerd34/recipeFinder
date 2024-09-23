@@ -1,0 +1,30 @@
+body {
+    display : flex;
+    align-items: center;
+    font-family: arial, sans serif;
+    flex-direction: column;
+
+}
+
+input {
+    width : 157px; 
+}
+
+button {
+    border-radius: 5px;
+    border: none;
+    height: 25px;
+}
+
+button:hover {
+    background-color: rgb(169, 169, 169);
+}
+
+div {
+    border: none;
+    border-radius: 15px;
+    background-color: lightgrey;
+    display: none;
+    margin: 20px;
+    padding: 10px;
+}
