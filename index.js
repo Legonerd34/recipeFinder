@@ -1,5 +1,5 @@
 const container = document.getElementById("container");
-const post_url = "https://dh0wkzi4.run.nodescript.dev/recipe-finder"
+const post_url = "https://dh0wkzi4.run.nodescript.dev/recipes_finder_2"
 
 
 
